@@ -1,8 +1,37 @@
 ## Hobr desi~
 
-A liberal arts student who is interested in Computer Science
+A full stack liberal arts student who is fond of Computer Science
 
-一个对计算机科学感兴趣的文科生
+一个喜爱计算机科学的全栈文科生
 
 - [Homepage](https://hobr.site)
 - [Blog](https://blog.hobr.site)
+
+## Skilled Skill
+
+### Programming Language
+
+- Python
+- C/CPP
+- Ruby
+- JavaScript
+- ASM
+- PHP
+- Chisel
+- Verilog
+- Pawn
+- Rust
+
+### Framework/Software/Platform
+
+- Django
+- Nuxt.JS
+- Rails
+- RISC-V
+- QT
+- Docker
+- Electron
+- NDK
+- Server Deploy
+- IoT
+-....
