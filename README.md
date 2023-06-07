@@ -1,5 +1,8 @@
-## Hobr desi~
+## Hobr desu~
 
-A liberal arts student who is fond of Computer Science
+A liberal arts undergraduate who is fond of Computer Science.
 
-- Mail mail@hobr.site
+Now focus on RISC-V, OS and AI.
+
+- [Homepage](https://hobr.site)
+- E-Mail mail@hobr.site
