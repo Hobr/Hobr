@@ -1,8 +1,6 @@
 ## Hobr
 
-A liberal arts undergraduate who is fond of Computer Science.
-
-Full stack. Now focus on RISC-V, OS kernel and AI.
+A liberal arts undergraduate who is fond of Computer Science. Full stack.
 
 - E-Mail: [mail@hobr.site](mailto://mail@hobr.site)
 - Telegram: [Hobrd](https://t.me/Hobrd)
