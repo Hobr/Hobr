@@ -2,6 +2,8 @@
 
 A liberal arts undergraduate who is fond of Computer Science. Full stack.
 
+Currently studying Japanese at the School of Foreign Studies, Nanjing University of Science and Technology.
+
 - E-Mail: [mail@hobr.site](mailto://mail@hobr.site)
 - Telegram: [Hobrd](https://t.me/Hobrd)
 - Homepage: [URL](https://hobr.site)
