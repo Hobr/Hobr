@@ -11,4 +11,4 @@ Currently studying Japanese at the School of Foreign Studies, Nanjing University
   - [Pulick Key](https://github.com/hobr.gpg)
   - FingerPrint: AA7C 7881 C489 69C5 8216  20A4 0FD7 26E3 4F50 F5B0
 
-![afdian](https://github.com/user-attachments/assets/3821ad06-bb1a-477a-a758-c5e44990fc57)
+<img src="https://github.com/user-attachments/assets/3821ad06-bb1a-477a-a758-c5e44990fc57" height="480px" width="360px" />
