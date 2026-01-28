@@ -1,11 +1,13 @@
 # Hobr
 
-> A liberal arts undergraduate who is fond of Computer Science. Full stack.
+> ***Looking for work.***
 
 <html>
   <table style="margin-lef: auto; margin-right: auto;">
     <tr>
       <td>
+
+I'm a liberal arts undergraduate who is fond of Computer Science. Full stack.
 
 - E-Mail: [mail@hobr.site](mailto://mail@hobr.site)
 - Telegram: [Hobrd](https://t.me/Hobrd)
