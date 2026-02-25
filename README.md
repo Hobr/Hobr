@@ -19,8 +19,7 @@ I'm a liberal arts undergraduate who is fond of Computer Science. Full stack.
       </td>
       
       <td>
-[<img src="https://github.com/user-attachments/assets/3821ad06-bb1a-477a-a758-c5e44990fc57" height="300px" width="200px"/>](https://afdian.com/a/hobrdesu)
-<img src="https://github.com/user-attachments/assets/803e5698-3d26-4d4e-8932-bc60a4ea5b28" width="240px" height="240px"/>
+<img src="https://github.com/user-attachments/assets/803e5698-3d26-4d4e-8932-bc60a4ea5b28" width="240px" height="480px"/>
       </td>
     </tr>
   </table>
