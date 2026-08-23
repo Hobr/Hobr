@@ -2,11 +2,6 @@
 
 > ***Looking for work.***
 
-<html>
-  <table style="margin-lef: auto; margin-right: auto;">
-    <tr>
-      <td>
-
 I'm a liberal arts undergraduate who is fond of Computer Science. Full stack.
 
 - E-Mail: [mail@hobr.site](mailto://mail@hobr.site)
@@ -15,12 +10,3 @@ I'm a liberal arts undergraduate who is fond of Computer Science. Full stack.
 - PGP
   - [Pulick Key](https://github.com/hobr.gpg)
   - FingerPrint: AA7C 7881 C489 69C5 8216  20A4 0FD7 26E3 4F50 F5B0
-
-      </td>
-      
-      <td>
-<img src="https://github.com/user-attachments/assets/803e5698-3d26-4d4e-8932-bc60a4ea5b28" width="240px" height="480px"/>
-      </td>
-    </tr>
-  </table>
-</html>
