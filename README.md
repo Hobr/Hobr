@@ -1,6 +1,6 @@
 # Hobr
 
-> Armchair Computer Hacker
+> Armchair Computer Hacker / 计算机民科
 
 ***Looking for work.***
 
